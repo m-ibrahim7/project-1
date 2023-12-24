@@ -1,0 +1,80 @@
+@media screen and (max-width:787px) {
+    .section4-cards-2{
+        width: 80%;
+        gap: 15px;
+    }
+    .section4-card{
+        width: 48%;
+    }
+    .section6-2{
+        flex-direction: column;
+    }
+    .section6-left{
+        width: 100%;
+    }
+    .section6-right{
+        width: 100%;
+    }
+    .section8-image{
+        width: 50%;
+    }
+    .section10-card{
+        width: 48%;
+        flex-wrap: wrap;
+    }
+    .section12-card,.section12-card2{
+        width: 47%;
+    }
+}
+@media screen and (max-width:576px) {
+    .section4-card{
+        width: 100%;
+    }
+    .section4-cards-2{
+        width: 90%;
+        gap: 15px;
+    }
+    .section2-parts{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .section3-top{
+        width: 90%;
+    }
+    .section5{
+        flex-direction: column;
+    }
+    .section5-left{
+        width: 100%;
+    }
+    .section5-right{
+        width: 100%;
+    }
+    .section6-2{
+        width: 90%;
+    }
+    .section7-1{
+        width: 90%;
+    }
+    .section7{
+        width: 90%;
+    }
+    .section8-image{
+        width: 100%;
+    }
+    .section9-1{
+        width: 90%;
+    }
+    .section10-card{
+        width: 100%;
+    }
+    .section10-cards{
+        width: 90%;
+    }
+    .section12-card,.section12-card2{
+        width: 100%;
+    }
+    .context h1 {
+        font-size: 29px;
+    }
+}
